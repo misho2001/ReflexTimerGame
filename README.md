@@ -1,5 +1,7 @@
 REFLEX TIMER GAME
 =================
+APP pictures located images folder
+----------------------------------
 
 Technologies:
 - Java 21
@@ -61,3 +63,4 @@ NOTES
   must be changed and credentials must never be committed to Git.
 - The current leaderboard is formatted as JSON text in the UI; it can be improved into
   dedicated styled rows as a next step.
+
