@@ -63,4 +63,5 @@ NOTES
   must be changed and credentials must never be committed to Git.
 - The current leaderboard is formatted as JSON text in the UI; it can be improved into
   dedicated styled rows as a next step.
+- I worked on the project together with AI.
 
